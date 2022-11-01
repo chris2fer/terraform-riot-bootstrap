@@ -1,0 +1,9 @@
+{
+  "version": "2.0",
+  "routeKey": "GET /riot-RiotApiFunction-cyhvDaSsw4Vr/sku",
+  "rawPath": "/riot-RiotApiFunction-cyhvDaSsw4Vr/sku",
+  "rawQueryString": "id=59107912",
+  "queryStringParameters": {
+    "id": "59107912"
+  }
+}
